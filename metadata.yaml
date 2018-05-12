@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41172'
     url: http://www.gutenberg.org/2009/agents/41172
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41421#The-Protestants-Plea-for-a-Socinianor-Schism
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
