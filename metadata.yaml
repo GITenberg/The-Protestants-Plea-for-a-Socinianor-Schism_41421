@@ -1,0 +1,33 @@
+_repo: The-Protestants-Plea-for-a-Socinianor-Schism_41421
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: R. H.
+    aliases:
+    - RH
+    - Learned hand
+    - Woodhead, Abraham
+    - H., R.
+    birthdate: 1609
+    deathdate: 1678
+    gutenberg_agent_id: '41172'
+    url: http://www.gutenberg.org/2009/agents/41172
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socinianism -- Early works to 1800'
+- !lcc 'BT'
+title: "The Protestants Plea for a Socinian\r\nJustifying His Doctrine from Being\
+  \ Opposite to Scripture or Church Authority; and Him from Being Guilty of Heresie,\
+  \ or Schism"
+url: http://www.gutenberg.org/ebooks/41421
